@@ -1,14 +1,20 @@
 # Cara Install Simple Voice Chat Minecraft
+
 **Pilih salah satu dari bawah**
 - [Menggunakan Forge](#menggunakan-forge)
 - [Menggunakan Fabric](#menggunakan-fabric)
 
 ## Menggunakan Forge
+
 ***Pakai Forge bisa ditambah Optifine juga***
+
 #### Bahan Masak
+
 - Installer Forge ([download](https://github.com/dzinnn/tutor-anjay/blob/main/install-svc/bahan/download/forge-1.19.3-44.1.23-installer.jar?raw=true))
 - Mod Simple Voice Chat for Forge ([download](https://github.com/dzinnn/tutor-anjay/blob/main/install-svc/bahan/download/voicechat-forge-1.19.3-2.4.4.jar?raw=true))
+
 ### Langkah Memasak
+
 1. Download semua bahan masak.
 2. Jalankan Installer Forge   
 ![Tampilan Installer Forge](https://raw.githubusercontent.com/dzinnn/tutor-anjay/main/install-svc/bahan/images/forge-isntaller.jpg)
@@ -35,11 +41,16 @@
 14. Lanjut ke proses pengaturan
 
 ## Menggunakan Fabric
+
 ***Kalau pakai Fabric tidak bisa pakai Optifine***
+
 #### Bahan Masak
+
 - Installer Fabric ([download](https://github.com/dzinnn/tutor-anjay/blob/main/install-svc/bahan/download/fabric-installer-0.11.2.exe?raw=true))
 - Mod Simple Voice Chat for Fabric ([download](https://github.com/dzinnn/tutor-anjay/blob/main/install-svc/bahan/download/voicechat-fabric-1.19.3-2.4.4.jar))
+
 ### Langkah Memasak
+
 1. Download semua bahan masak.
 2. Jalankan Installer Fabric   
 ![Tampilan Installer Fabric](https://raw.githubusercontent.com/dzinnn/tutor-anjay/main/install-svc/bahan/images/fabric-installer.jpg)
