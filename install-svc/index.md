@@ -65,5 +65,5 @@
 ![Folder **mods**](https://raw.githubusercontent.com/dzinnn/tutor-anjay/main/install-svc/bahan/images/mods.jpg)
 14. Paste file Mod Simple Voice Chat ke dalam folder tersebut.   
 ![File Mod](https://raw.githubusercontent.com/dzinnn/tutor-anjay/main/install-svc/bahan/images/file-mod.jpg)
-15. Mulai Minecraft menggunakan profile Forge
+15. Mulai Minecraft menggunakan profile Fabric
 16. Lanjut ke proses pengaturan
